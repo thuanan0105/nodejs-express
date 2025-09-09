@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thuanan0105/nodejs-express.git"
+  },
+  "author": "thuanan0105",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuanan0105/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/thuanan0105/nodejs-express#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
